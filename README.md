@@ -1,9 +1,9 @@
 # ALOTECH PROJE ÖDEVİ 1  BU REPOSİTORY ÜZERİNDEN İLERLEYECEKTİR. EKSİK BÖLÜMLER BU PROJE ÜZERİNDEN GÜNCELLENECEKTİR.
 
-# LÜTFEN https://github.com/sedabasaran/Node-Proje-server ve https://github.com/sedabasaran/Node-Proje-client ayrı ayrı indirmek yerine güncellediğim.
 
-# BU PROJEYİ   https://github.com/sedabasaran/Node_Proje1 PROJESİNİ İNDİRİN. PROJE BURADAN DEVAM EDECEKTİR.
+# LÜTFEN https://github.com/sedabasaran/Node-Proje-server ve https://github.com/sedabasaran/Node-Proje-client  PROJELERİNİ AYRI AYRI İNDİRMEK YERİNE GÜNCELLEDİĞİM BU PROJEYİ İNDİRİN.  https://github.com/sedabasaran/Node_Proje1   PROJE BURADAN DEVAM EDECEKTİR.
 
+* PROJEYİ ÇALIŞTIRMAK İÇİN
 
 # BU PROJEYİ İNDİRDİKTEN SONRA PROJE DİZİNİNDE 2 TERMİNAL AÇIP, 1. TERMİNALE "cd server " 2. TERMİNALE " cd client " yazıp dizinizi değiştirin. BU ADIMI UYGULADIKTAN SONRA 1.TERMİNALE "npm start " 2.TERMİNALE " npm start " YAZIP ÇALIŞTIRIN. BÖYLECE PROJE " http://localhost:3000/ " ÜZERİNDE ÇALIŞACAKTIR.  
 
