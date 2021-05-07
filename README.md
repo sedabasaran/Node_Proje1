@@ -8,7 +8,7 @@
 # BU PROJEYİ İNDİRDİKTEN SONRA PROJE DİZİNİNDE 2 TERMİNAL AÇIP, 1. TERMİNALE "cd server " 2. TERMİNALE " cd client " yazıp dizinizi değiştirin. BU ADIMI UYGULADIKTAN SONRA 1.TERMİNALE "npm start " 2.TERMİNALE " npm start " YAZIP ÇALIŞTIRIN. BÖYLECE PROJE " http://localhost:3000/ " ÜZERİNDE ÇALIŞACAKTIR.  
 
 
-# EĞER 2 TERMİNALEDE " npm start " YAZIP ÇALIŞMAYIP HATA VERDİYSE BÜYÜK İHTİMALLE " package-lock.json " DOSYASI HATA VERİYORDUR. HEM CLİENT SİDE HEM DE SERVER SİDE BÖLÜMÜNDE BULUNAN  " package-lock.json " DOSYASINI SİLİNİZ. SİLDİKTEN SONRA HER 2 TERMİNALE " cd client " TERMİNALİNE VE cd server TERMİNALİNE " npm install " YAZINIZ. BÖYLECE POJE LOCALHOST ÇALIŞACAKTIR.  http://localhost:3000/ 
+# EĞER 2 TERMİNALEDE " npm start " YAZIP ÇALIŞMAYIP HATA VERDİYSE BÜYÜK İHTİMALLE " package-lock.json " DOSYASI HATA VERİYORDUR. HEM CLİENT SİDE HEM DE SERVER SİDE BÖLÜMÜNDE BULUNAN  " package-lock.json " DOSYASINI SİLİNİZ. SİLDİKTEN SONRA HER 2 TERMİNALE  " npm install " YAZINIZ. BÖYLECE POJE LOCALHOST ÜZERİNDEN ÇALIŞACAKTIR.  http://localhost:3000/ 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
