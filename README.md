@@ -1,6 +1,6 @@
 # ALOTECH PROJE ÖDEVİ 1  BU REPOSİTORY ÜZERİNDEN İLERLEYECEKTİR. EKSİK BÖLÜMLER BU PROJE ÜZERİNDEN GÜNCELLENECEKTİR.
 
-# LÜTFEN https://github.com/sedabasaran/Node-Proje-server ve https://github.com/sedabasaran/Node-Proje-client ayrı indirmek yerine güncellediğim.
+# LÜTFEN https://github.com/sedabasaran/Node-Proje-server ve https://github.com/sedabasaran/Node-Proje-client ayrı ayrı indirmek yerine güncellediğim.
 
 # BU PROJEYİ   https://github.com/sedabasaran/Node_Proje1 PROJESİNİ İNDİRİN. PROJE BURADAN DEVAM EDECEKTİR.
 
