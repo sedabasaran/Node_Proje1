@@ -19,4 +19,18 @@ router.post("/", async (req, res) => {
   res.json(post);
 });
 
+router.delete("/:userID", async (req, res) => {
+  const userID = req.params.userID;
+  await Users.destroy({
+    where:{
+      id:userID,
+    },
+  })
+  res.json("USER DELETED SUCCESFULLY");
+});
+
+
+
+
+
 module.exports = router;
