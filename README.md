@@ -1,6 +1,3 @@
-ALOTECH PROJE ÖDEVİ 1  BU REPOSİTORY ÜZERİNDEN İLERLEYECEKTİR. EKSİK BÖLÜMLER BU PROJE ÜZERİNDEN GÜNCELLENECEKTİR.
-
-
 #  PROJEYİ ÇALIŞTIRMAK İÇİN
 
 Bu projeyi indirdikten sonra proje dizininde 2 terminal açıp, 1. Terminale "cd server " 2. Terminale " cd client " yazıp dizinizi değiştirin. Bu adımı uyguladıktan sonra 1.terminale "npm start " 2.terminalede " npm start " yazıp çalıştırın. Böylece proje [http://localhost:3000](http://localhost:3000)  üzerinde çalışacaktır.  
